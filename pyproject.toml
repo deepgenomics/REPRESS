@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=64", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "repress"
+version = "0.1.0"
+description = "REPRESS: a deep learning model that predicts cell-type-specific microRNA (miRNA) binding and mRNA degradation directly from RNA sequence."
+readme = "README.md"
+requires-python = ">=3.8"
+authors = [
+  { name = "DeepGenomics", email = "info@deepgenomics.com" }
+]
+license = { file = "LICENSE" }
+urls = { Homepage = "https://github.com/deepgenomics/repress/" }
+
+[tool.setuptools.packages.find]
+where = ["."]
