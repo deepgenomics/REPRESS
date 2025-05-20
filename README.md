@@ -196,7 +196,19 @@ This material is released under the Creative Commons Attribution-NonCommercial 4
 For inquiries regarding commercial use please contact: legal@deepgenomics.com. Deep Genomics has filed one or more patent applications related to technical aspects of this work including PCT/IB2025/052017.
 
 
-## Citation
+## Citing this work
 If you use REPRESS in your research, please cite:
 
-[1] TODO: Add citation here
+```
+@article{Kanuparthi2025.05.15.654105,
+	author = {Kanuparthi, Bhargav and Pour, Sara E. and Findlay, Scott D. and Wagih, Omar and Gutierrez, Jahir M. and Gao, Rory and Wintersinger, Jeff and Lin, Junru and Gabra, Martino and Bohn, Emma and Lau, Tammy and Cole, Christopher B and Jung, Andrew and Celaj, Albi and Soares, Fraser and Gray, Rachel and Vaz, Brandon and Delfosse, Kate and Lodaya, Varun and Bhargava, Sakshi and Ly, Diane and Yusuf, Farhan and Kron, Ken and Hoffman, Greg and Gandhi, Shreshth and Frey, Brendan J.},
+	title = {Sequence based prediction of cell type specific microRNA binding and mRNA degradation for therapeutic discovery},
+	elocation-id = {2025.05.15.654105},
+	year = {2025},
+	doi = {10.1101/2025.05.15.654105},
+	publisher = {Cold Spring Harbor Laboratory},
+	URL = {https://www.biorxiv.org/content/early/2025/05/16/2025.05.15.654105},
+	eprint = {https://www.biorxiv.org/content/early/2025/05/16/2025.05.15.654105.full.pdf},
+	journal = {bioRxiv}
+}
+```
