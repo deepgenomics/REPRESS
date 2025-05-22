@@ -1,6 +1,6 @@
 # REPRESS: A Deep Learning Model for Cell-Type-Specific Post-Transcriptional Gene Regulation
 
-**REPRESS** (Regulatory Element Prediction of Post-TRanscriptional Events using Sequence Signals) is a deep learning model that predicts cell-type-specific microRNA (miRNA) binding and mRNA degradation directly from RNA sequence.
+**REPRESS** (Regulatory Element PRediction of post-transcriptional Events using Sequence Signals) is a deep learning model that predicts cell-type-specific microRNA (miRNA) binding and mRNA degradation directly from RNA sequence.
 
 Trained on millions of sites from AGO2-CLIP, miR-eCLIP, and Degradome-Seq data across multiple human and mouse cell types, REPRESS learns rich representations of post-transcriptional gene regulation. It captures both canonical and non-canonical miRNA binding, integrates sequence context and site multiplicity, and generalizes across tissues and modalities. The version of REPRESS released in this repository has 8356199 parameters with the list of AGO2-CLIP, miR-eCLIP and Degradome-Seq cell lines shown in the `Published Datasets used for model training` section below.
 
